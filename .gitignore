@@ -55,4 +55,6 @@ copy
 getmd
 cvoc
 *.zip
+*.wav
+*.mp3
 

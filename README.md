@@ -30,6 +30,9 @@ format=mp3
 speed=0.95
 model=tts-1
 ```
+Note: the output file name does not have its extension.  
+This is because it will use the _format_ for its extention.
+
 
 Two ways to execute `cvoc`:
 
