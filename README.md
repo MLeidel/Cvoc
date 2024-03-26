@@ -2,7 +2,7 @@
 ### "command-line voice, c voice, curl voice"
 
 Cvoc is a console binary that produces text-to-speech audio files.
-It is written for Linux but could be easily modified for Windows.
+It is written for Linux.  
 It requires an OpenAI authorization key set to an environment
 variable called __GPTKEY__.
 Cvoc uses the OpenAI audio.speech API with several speech parameters
